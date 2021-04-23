@@ -14,4 +14,4 @@ In server the files/folder included are:
   3)server.js file
 
 
-This is a web based application made with react.js and node modules with the help pf spotify web API.In this app user can search their songs and can play the song eith lyrics.
+This is a web based application made with react.js and node modules with the help pf spotify web API.In this app user can search their songs and can play the song with lyrics on their server.
